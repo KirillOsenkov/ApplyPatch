@@ -1,5 +1,6 @@
 ﻿using System.IO;
 
+
 abstract class Edit
 {
     public abstract void Apply();
